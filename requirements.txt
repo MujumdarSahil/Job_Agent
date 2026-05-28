@@ -1,0 +1,10 @@
+groq
+jobspy
+pandas
+openpyxl
+pdfplumber
+rich
+requests
+python-dotenv
+selenium
+undetected-chromedriver
